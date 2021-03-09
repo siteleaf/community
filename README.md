@@ -2,7 +2,9 @@
 
 # Siteleaf Community
 
-Join the [Discussions](https://github.com/siteleaf/community/discussions):
+Welcome to the [Siteleaf Community](https://github.com/siteleaf/community/discussions). We look forward to building an open, accessible, and searchable archive for questions that pop up often. We also hope to offer a greater level of transparency by opening up our roadmap and allowing the community to vote on new features.
+
+To get started we created topics for:
 
 - ❓ [Community Support](https://github.com/siteleaf/community/discussions/categories/community-support): Ask the community for help with Jekyll and Siteleaf.  
 
