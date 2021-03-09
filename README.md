@@ -17,7 +17,7 @@ To get started we created topics for:
 
 ## Official support for paid customers
 
-In addition to the **Community support** here, offical **customer support** is included in all [paid plans](https://www.siteleaf.com/plans/) (Personal, Team, Business, and Enterprise). To send an official support request, [log into your site](https://manage.siteleaf.com) and click the chat button at the bottom right of your page. (If you're on a free Developer plan, you won't see this button.)
+In addition to the **community support** here, offical **customer support** is included in all [paid plans](https://www.siteleaf.com/plans/) (Personal, Team, Business, and Enterprise). To send an official support request, [log into your site](https://manage.siteleaf.com) and click the chat button at the bottom right of your page. (If you're on a free Developer plan, you won't see this button.)
 
 ## Elsewhere
 
