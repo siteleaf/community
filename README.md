@@ -6,7 +6,7 @@ Join the [Discussions](https://github.com/siteleaf/community/discussions):
 
 - ❓ [Community Support](https://github.com/siteleaf/community/discussions/categories/community-support): Ask the community for help with Jekyll and Siteleaf.  
 
-- 💡 [Feature Requests](https://github.com/siteleaf/community/discussions/categories/feature-requests): Share ideas for new features for Siteleaf.  
+- 💡 [Feature Requests](https://github.com/siteleaf/community/discussions/categories/feature-requests): Vote and share ideas for new features.  
 
 - 🙌 [Show & Tell](https://github.com/siteleaf/community/discussions/categories/show-tell): Show off something you've made.  
 
