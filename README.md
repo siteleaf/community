@@ -12,8 +12,12 @@ To get started we created topics for:
 
 - 🙌 [Show & Tell](https://github.com/siteleaf/community/discussions/categories/show-tell): Show off something you've made.  
 
-- 💬 [General Discussion](https://github.com/siteleaf/community/discussions/categories/general-discussion): Everything else.  
+- 💬 [General Discussion](https://github.com/siteleaf/community/discussions/categories/general-discussion): Everything else. 
 
+
+## Official support for paid customers
+
+In addition to the **Community support** here, offical **customer support** is included in all [paid plans](https://www.siteleaf.com/plans/) (Personal, Team, Business, and Enterprise). To send an official support request, [log into your site](https://manage.siteleaf.com) and click the chat button at the bottom right of your page. (If you're on a free Developer plan, you won't see this button.)
 
 ## Elsewhere
 
