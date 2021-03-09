@@ -19,4 +19,5 @@ Join the [Discussions](https://github.com/siteleaf/community/discussions):
 - [Siteleaf Learn](https://learn.siteleaf.com/): Getting started, tutorials, help documentation, and API.
 - [Siteleaf Gallery](https://www.siteleaf.com/gallery/): Our favorite projects built on Siteleaf.
 - [Siteleaf Blog](https://www.siteleaf.com/blog/): Posts and announcements.
+- [Referral Program](https://vip.siteleaf.com/): Join our Siteleaf VIP referral program.
 - [Twitter](https://twitter.com/siteleaf): Follow [@siteleaf](https://twitter.com/siteleaf) on Twitter.
