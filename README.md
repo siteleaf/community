@@ -13,7 +13,7 @@ Join the [Discussions](https://github.com/siteleaf/community/discussions):
 - 💬 [General Discussion](https://github.com/siteleaf/community/discussions/categories/general-discussion): Everything else.  
 
 
-# Elsewhere
+## Elsewhere
 
 - [Siteleaf.com](https://www.siteleaf.com/): Our homepage.
 - [Siteleaf Learn](https://learn.siteleaf.com/): Getting started, tutorials, help documentation, and API.
